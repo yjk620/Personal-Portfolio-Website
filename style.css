@@ -486,11 +486,11 @@ nav ul li a:hover {
     margin-left: 20px;
     z-index: 1;
     font-size: medium;
-    margin-bottom: 150px;
   }
 
   .poly {
-    height: 100%;
+    width: 100%;
+    position: absolute;
     margin: 0;
     z-index: -1;
   }
@@ -498,7 +498,6 @@ nav ul li a:hover {
   .pfp {
     margin: 0;
     width: 100%;
-    margin-bottom: 180px;
     z-index: -2;
   }
 
