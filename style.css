@@ -608,6 +608,7 @@ nav ul li a:hover {
   .poly {
     width: 100%;
     z-index: -1;
+    top: 0;
     position: absolute;
   }
 
