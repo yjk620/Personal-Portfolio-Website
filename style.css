@@ -589,13 +589,15 @@ nav ul li a:hover {
   .home-container {
     width: 100%;
     flex-direction: row;
+    margin-top: 200px;
   }
 
   .text {
     margin: 0;
     position: relative;
     font-size: medium;
-    margin-right: 200px;
+    margin-right: 300px;
+    margin-bottom: 100px;
   }
 
   .poly {
@@ -610,7 +612,6 @@ nav ul li a:hover {
     z-index: -2;
     position: relative;
     margin-left: 100px;
-    margin-top: 300px
   }
 
   .pfp-size {
