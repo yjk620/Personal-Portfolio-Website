@@ -110,6 +110,7 @@ nav ul li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .home-container {
@@ -474,6 +475,7 @@ nav ul li a:hover {
 
   .home {
     width: 100%;
+    overflow: hidden;
   }
   .home-container {
     width: 100%;
